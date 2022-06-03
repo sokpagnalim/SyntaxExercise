@@ -1,0 +1,14 @@
+C:\Users\Sokpagna\Desktop\Repos\csharp27\SyntaxSugarExercise1\SyntaxSugarExercise1\bin\Debug\netcoreapp3.1\SyntaxSugarExercise1.exe
+C:\Users\Sokpagna\Desktop\Repos\csharp27\SyntaxSugarExercise1\SyntaxSugarExercise1\bin\Debug\netcoreapp3.1\SyntaxSugarExercise1.deps.json
+C:\Users\Sokpagna\Desktop\Repos\csharp27\SyntaxSugarExercise1\SyntaxSugarExercise1\bin\Debug\netcoreapp3.1\SyntaxSugarExercise1.runtimeconfig.json
+C:\Users\Sokpagna\Desktop\Repos\csharp27\SyntaxSugarExercise1\SyntaxSugarExercise1\bin\Debug\netcoreapp3.1\SyntaxSugarExercise1.runtimeconfig.dev.json
+C:\Users\Sokpagna\Desktop\Repos\csharp27\SyntaxSugarExercise1\SyntaxSugarExercise1\bin\Debug\netcoreapp3.1\SyntaxSugarExercise1.dll
+C:\Users\Sokpagna\Desktop\Repos\csharp27\SyntaxSugarExercise1\SyntaxSugarExercise1\bin\Debug\netcoreapp3.1\SyntaxSugarExercise1.pdb
+C:\Users\Sokpagna\Desktop\Repos\csharp27\SyntaxSugarExercise1\SyntaxSugarExercise1\obj\Debug\netcoreapp3.1\SyntaxSugarExercise1.csproj.AssemblyReference.cache
+C:\Users\Sokpagna\Desktop\Repos\csharp27\SyntaxSugarExercise1\SyntaxSugarExercise1\obj\Debug\netcoreapp3.1\SyntaxSugarExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sokpagna\Desktop\Repos\csharp27\SyntaxSugarExercise1\SyntaxSugarExercise1\obj\Debug\netcoreapp3.1\SyntaxSugarExercise1.AssemblyInfoInputs.cache
+C:\Users\Sokpagna\Desktop\Repos\csharp27\SyntaxSugarExercise1\SyntaxSugarExercise1\obj\Debug\netcoreapp3.1\SyntaxSugarExercise1.AssemblyInfo.cs
+C:\Users\Sokpagna\Desktop\Repos\csharp27\SyntaxSugarExercise1\SyntaxSugarExercise1\obj\Debug\netcoreapp3.1\SyntaxSugarExercise1.csproj.CoreCompileInputs.cache
+C:\Users\Sokpagna\Desktop\Repos\csharp27\SyntaxSugarExercise1\SyntaxSugarExercise1\obj\Debug\netcoreapp3.1\SyntaxSugarExercise1.dll
+C:\Users\Sokpagna\Desktop\Repos\csharp27\SyntaxSugarExercise1\SyntaxSugarExercise1\obj\Debug\netcoreapp3.1\SyntaxSugarExercise1.pdb
+C:\Users\Sokpagna\Desktop\Repos\csharp27\SyntaxSugarExercise1\SyntaxSugarExercise1\obj\Debug\netcoreapp3.1\SyntaxSugarExercise1.genruntimeconfig.cache
